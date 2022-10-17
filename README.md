@@ -7,7 +7,7 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucasGomes&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasGomes&layout=compact)](https://github.com/DevLucasGomes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasGomes&layout=compact&theme=radical)](https://github.com/DevLucasGomes/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
